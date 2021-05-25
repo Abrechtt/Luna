@@ -39,4 +39,15 @@ Referencia
 - Creating water with shader graph in unity| 2D shader basics. (2020, 27 octubre). CGTubes. https://www.cgtutes.com/water-shader-graph-unity/
 - Tuttle, J. (2019, 1 noviembre). Unity Water Shaders - Jason Tuttle. Medium. https://medium.com/@JasonTuttle/unity-water-shaders-2b615e696adc
 
+**Vertex Shading**
+- Technologies, U. (2021, 15 mayo). Unity - Manual: Vertex and fragment shader examples for the Built-in Render Pipeline. Unity. https://docs.unity3d.com/Manual/SL-VertexFragmentShaderExamples.html
+- Bellucci, F. (2018, 1 octubre). Vertex Shader Tutorial for Unity. Febucci. https://www.febucci.com/2018/10/vertex-shader/
+- Zucconi, A. (2020, 29 julio). Vertex and fragment shaders in Unity3D. Alan Zucconi. https://www.alanzucconi.com/2015/07/01/vertex-and-fragment-shaders-in-unity3d/
+- Vertex Displacement. (2018, 16 junio). Ronja’s Tutorials. https://www.ronja-tutorials.com/post/015-wobble-displacement/
+- Vertex Shader - OpenGL Wiki. (2017, November 10). OpenGL Wiki. https://www.khronos.org/opengl/wiki/Vertex_Shader
+- Marinacci, J. (2019, February 28). Customizing Vertex shaders. Medium. https://medium.com/@joshmarinacci/customizing-vertex-shaders-86527c5693b2
+- Ureña, C. (n.d.). Evaluación del MIL mediante programación del cauce gráfico con GLSL. Universidad de Granada. Retrieved May 23, 2021, from https://lsi2.ugr.es/%7Ecurena/doce/vr/pracs.ext/05/
+- Rost, R. (2006, January 25). Vertex Shader | A Simple Shading Example in OpenGL Shading Language. Informit. https://www.informit.com/articles/article.aspx?p=446452&seqNum=2
+- Vertex Shaders | ISF Documentation. (n.d.). ISF Documentation. Retrieved May 23, 2021, from https://docs.isf.video/primer_chapter_5.html#vertex-shaders-vs-fragment-shaders
+- Vertex shader. (2011, September 25). Learn OpenGL ES. https://www.learnopengles.com/tag/vertex-shader/
 
