@@ -26,4 +26,6 @@ Conclusion
 
 Referencia
 -------------------------------------------------
-# Water Shader
+**Water Shader**
+- Ilett, D. (2020, 5 abril). Stylised Water in Shader Graph and URP. Daniel Ilett: Games | Shaders | Tutorials. https://danielilett.com/2020-04-05-tut5-3-urp-stylised-water/
+
