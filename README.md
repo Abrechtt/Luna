@@ -51,3 +51,24 @@ Referencia
 - Vertex Shaders | ISF Documentation. (n.d.). ISF Documentation. Retrieved May 23, 2021, from https://docs.isf.video/primer_chapter_5.html#vertex-shaders-vs-fragment-shaders
 - Vertex shader. (2011, September 25). Learn OpenGL ES. https://www.learnopengles.com/tag/vertex-shader/
 
+**Modelo de Luz**
+- Technologies, U. (s. f.). Tipos de luz - Unity Manual. Unity. Recuperado 21 de mayo de 2021, de https://docs.unity3d.com/es/2018.4/Manual/Lighting.html
+
+- Technologies, U. (2015, 15 mayo). Unity - Manual: Custom lighting models in Surface Shaders. Unity. https://docs.unity3d.com/Manual/SL-SurfaceShaderLighting.html
+
+- Flick, J. (2019, 30 noviembre). Directional Lights. Catlike Coding. https://catlikecoding.com/unity/tutorials/custom-srp/directional-lights/
+
+- Technologies, U. (s. f.). Unity - Manual: Custom Lighting models in Surface Shaders. Unity. https://dev.rbcafe.com/unity/unity-5.3.3/en/Manual/SL-SurfaceShaderLighting.html
+
+- Hedquist, A. (2018, 23 enero). Toon shader with a custom lighting model - Aaron Hedquist. Medium. https://medium.com/@aarhed/toon-shader-with-a-custom-lighting-model-276030c0338b
+
+- Unity Toon Shader Tutorial at Roystan. (s. f.). Roystan. Recuperado 21 de mayo de 2021, de https://roystan.net/articles/toon-shader.html
+
+- Single Step Toon Light. (2018, 20 octubre). Ronja’s Tutorials. https://www.ronja-tutorials.com/post/031-single-step-toon/
+
+- Lindman, A. (2019, 31 junio). Custom lighting in shader graph: Expanding your graphs in 2019. Unity. https://blog.unity.com/technology/custom-lighting-in-shader-graph-expanding-your-graphs-in-2019
+
+- Technologies, U. (2015, 15 mayo). Unity - Manual: Surface Shader lighting examples. Unity. https://docs.unity3d.com/Manual/SL-SurfaceShaderLightingExamples.html
+
+- Kalupahana, D. (2019, 20 junio). Shaders in Unity — Lambert and Ambient - Deshan Kalupahana. Medium. https://medium.com/@deshankalupahana/shaders-in-unity-lambert-and-ambient-ceba9fab6cfa
+
